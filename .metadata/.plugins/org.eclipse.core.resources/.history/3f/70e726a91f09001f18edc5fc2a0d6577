@@ -1,0 +1,21 @@
+package supermercado;
+
+public class supermercado {
+
+	public static void main(String[] args) {
+		producto[] productos=new producto[3];
+		
+		productos[0]=new producto("patatas", 10);
+		productos[1]=new perecedero("jamon",20,4);
+		productos[2]=new imperecedero("sandía",3,"tipo 2");
+		
+		double total=0;
+		for(int i=0;i<productos.length;i++) {
+			total +=productos[i].calcular(5);
+		}
+		
+		System.out.println("el total es "+total);
+
+	}
+
+}

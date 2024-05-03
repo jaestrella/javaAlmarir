@@ -1,0 +1,26 @@
+package ejemplo3;
+
+import java.util.Scanner;
+
+public class ejemplo3 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Introduce cantidad a ingresar: ");
+		int numero1=sc.nextInt();
+		cuenta c1= new cuenta("Pepe");
+		cuenta c2= new cuenta("Juan", numero1);
+		
+		c1.ingresar(500);
+		//c2.ingresar(300);
+		
+		c1.retirar(100);
+		c2.retirar(400);
+		
+		System.out.println(c1);
+		System.out.println(c2);
+		
+
+	}
+
+}

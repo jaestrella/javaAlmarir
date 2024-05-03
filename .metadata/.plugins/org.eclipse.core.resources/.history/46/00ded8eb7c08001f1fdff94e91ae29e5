@@ -1,0 +1,10 @@
+package ejemploHerencia;
+
+public class ejemploHerencia {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package ejemplo5;
+
+import javax.swing.JOptionPane;
+
+public class ejemplo5 {
+
+	public static void main(String[] args) {
+		String nombre=JOptionPane("Introduce nombre: ");
+	}
+
+}
