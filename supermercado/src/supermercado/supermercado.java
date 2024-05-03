@@ -10,10 +10,11 @@ public class supermercado {
 		productos[2]=new imperecedero("sandía",3,"tipo 2");
 		
 		double total=0;
-		for(int i=2;i<productos.length;i++) {
+		for(int i=0;i<productos.length;i++) {
 			total +=productos[i].calcular(5);
 		}
 		
+		System.out.println(productos[1].toString());
 		System.out.println("el total es "+total);
 
 	}
