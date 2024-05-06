@@ -7,9 +7,10 @@ public class Bebida {
 	private double cantidad;
 	private double precio;
 	private String marca;
-	public Bebida(int id, double cantidad, double precio, String marca) {
+	
+	public Bebida(double cantidad, double precio, String marca) {
 		super();
-		this.id = id;
+		this.id = idActual++;
 		this.cantidad = cantidad;
 		this.precio = precio;
 		this.marca = marca;

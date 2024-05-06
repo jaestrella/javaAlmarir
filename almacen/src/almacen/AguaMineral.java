@@ -3,8 +3,8 @@ package almacen;
 public class AguaMineral extends Bebida {
 	private String manantial;
 
-	public AguaMineral(String manantial, int id, double cantidad, double precio, String marca ) {
-		super(id, cantidad, precio, marca);
+	public AguaMineral(String manantial, double cantidad, double precio, String marca ) {
+		super(cantidad, precio, marca);
 		this.manantial = manantial;
 	}
 

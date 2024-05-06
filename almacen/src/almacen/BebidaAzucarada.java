@@ -3,8 +3,8 @@ package almacen;
 public class BebidaAzucarada extends Bebida {
 	private double porcentajeAzucar;
 	private boolean promocion;
-	public BebidaAzucarada(double porcentajeAzucar,boolean promocion,int id, double cantidad, double precio, String marca ) {
-		super(id, cantidad, precio, marca);
+	public BebidaAzucarada(double porcentajeAzucar,boolean promocion,double cantidad, double precio, String marca ) {
+		super(cantidad, precio, marca);
 		this.porcentajeAzucar = porcentajeAzucar;
 		this.promocion = promocion;
 	}

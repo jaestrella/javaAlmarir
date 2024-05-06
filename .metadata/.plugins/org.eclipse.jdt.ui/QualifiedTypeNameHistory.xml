@@ -7,4 +7,11 @@
     <fullyQualifiedTypeName name="ejemplo4.libro"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="ejemploHerencia.repartidor"/>
+    <fullyQualifiedTypeName name="supermercado.producto"/>
+    <fullyQualifiedTypeName name="almacen.Bebida"/>
+    <fullyQualifiedTypeName name="almacen.AguaMineral"/>
+    <fullyQualifiedTypeName name="almacen.BebidaAzucarada"/>
+    <fullyQualifiedTypeName name="agenda.Agenda"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="agenda.Contacto"/>
 </qualifiedTypeNameHistroy>
