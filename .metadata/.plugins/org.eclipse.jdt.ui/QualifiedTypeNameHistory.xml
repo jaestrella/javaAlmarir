@@ -15,4 +15,14 @@
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="agenda.Contacto"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="Serie"/>
+    <fullyQualifiedTypeName name="Videojuego"/>
+    <fullyQualifiedTypeName name="arraylist.PruebaArrayList"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="arraylist2.Carta"/>
+    <fullyQualifiedTypeName name="arraylist2.Carta.Palo"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="arraylist2.Mazo"/>
+    <fullyQualifiedTypeName name="com.tutorialesprogramacionya.calculadora.Cadena"/>
+    <fullyQualifiedTypeName name="com.tutorialesprogramacionya.calculadora.Matematica"/>
 </qualifiedTypeNameHistroy>
